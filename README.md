@@ -17,7 +17,8 @@ I'm a 5th year informatic engineering student, passionate about web development 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel)
 ![Linux](https://img.shields.io/badge/linux-E5E5E5?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto)
-![NodeJs](https://img.shields.io/badge/nodejs-gray?style=for-the-badge&logo=Node.js)
+![NodeJs](https://img.shields.io/badge/nodejs-gray?style=for-the-badge&logo=Node.js).
+![OracleDB](https://img.shields.io/badge/OracleDB-red?style=for-the-badge&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-003049?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-DAD7CD?style=for-the-badge&logo=spring%20boot&logoSize=auto)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
