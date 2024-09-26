@@ -21,6 +21,7 @@ I'm a 5th year informatic engineering student, passionate about web development 
 ![OracleDB](https://img.shields.io/badge/OracleDB-red?style=for-the-badge&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-003049?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-DAD7CD?style=for-the-badge&logo=spring%20boot&logoSize=auto)
+![SQLServer](https://img.shields.io/badge/SQLServer-orange?style=for-the-badge&logo=microsoft-sql-server)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
