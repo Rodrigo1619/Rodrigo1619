@@ -24,6 +24,8 @@ I'm an informatic engineer and software developer, trying to always improving my
 ![SQLServer](https://img.shields.io/badge/SQLServer-orange?style=for-the-badge&logo=microsoft-sql-server)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
