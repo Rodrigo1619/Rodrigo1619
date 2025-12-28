@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc5bmxiMnh3NmlxbzduenkwaGV3OTV5MDd0ZjhxbGtqMmx3ZmZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="100"/>
 </p>
 <h1 align="center"> Hi there, I'm Brandon Molina👋 </h1>
-I'm a 5th year informatic engineering student, passionate about web development focused on backend, databases and cybersecurity. 
+I'm an informatic engineer and software developer, trying to always improving my skills and best practices in my code and learning new technologies
 
 ---
 
